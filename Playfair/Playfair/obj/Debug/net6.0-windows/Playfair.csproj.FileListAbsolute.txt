@@ -1,0 +1,16 @@
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\bin\Debug\net6.0-windows\Playfair.exe
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\bin\Debug\net6.0-windows\Playfair.deps.json
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\bin\Debug\net6.0-windows\Playfair.runtimeconfig.json
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\bin\Debug\net6.0-windows\Playfair.dll
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\bin\Debug\net6.0-windows\Playfair.pdb
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.csproj.GenerateResource.cache
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.AssemblyInfoInputs.cache
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.AssemblyInfo.cs
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.csproj.CoreCompileInputs.cache
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.dll
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\refint\Playfair.dll
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.pdb
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.genruntimeconfig.cache
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\ref\Playfair.dll
+C:\Users\Tran Thanh Tu\source\repos\Playfair\Playfair\obj\Debug\net6.0-windows\Playfair.Playfair.resources
